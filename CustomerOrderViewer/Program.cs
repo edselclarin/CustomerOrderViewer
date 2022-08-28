@@ -1,5 +1,4 @@
-﻿using CustomerOrderViewer.Models;
-using CustomerOrderViewer.Repository;
+﻿using CustomerOrderViewer.Repository;
 
 try
 {

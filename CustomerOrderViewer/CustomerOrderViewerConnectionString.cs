@@ -1,6 +1,6 @@
 ﻿namespace CustomerOrderViewer
 {
-    internal static class CustomerOrderViewerConnectionString
+    public static class CustomerOrderViewerConnectionString
     {
         private static string _connStr = 
             @"Data Source=ITALY\SQLEXPRESS;Initial Catalog=CustomerOrderViewer;TrustServerCertificate=True;Integrated Security=True";
